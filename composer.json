@@ -18,7 +18,8 @@
     "time": "2010-08-18",
     "require": {
         "php": ">=5.2.0",
-        "fpoirotte/http_request2": "2.1.*@dev"
+        "fpoirotte/http_request2": "2.1.*@dev",
+        "pear/pear_exception" : "@beta"
     },
     "autoload": {
         "psr-0": {
