@@ -18,7 +18,7 @@
     "time": "2010-08-18",
     "require": {
         "php": ">=5.2.0",
-        "pear/http_request2": "dev-trunk",
+        "pear/http_request2": "2.2.1",
         "pear/pear_exception": "1.0.*@dev"
     },
     "autoload": {
