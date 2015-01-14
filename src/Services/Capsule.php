@@ -44,10 +44,6 @@
  * @version   GIT: $Id$
  */
 
-require_once 'HTTP/Request2.php';
-
-require_once 'Services/Capsule/Exception.php';
-require_once 'Services/Capsule/Common.php';
 
 /**
  * Services_Capsule
